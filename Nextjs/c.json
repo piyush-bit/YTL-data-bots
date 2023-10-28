@@ -1,0 +1,53 @@
+[
+    {
+        "subtopic": "Introduction to Next.js Full Stack Course",
+        "data": [
+            { "title": "Nextjs Full stack course" }
+        ]
+    },
+    {
+        "subtopic": "Signup and Login",
+        "data": [
+            { "title": "NextJS fullstack course | Signup and login" }
+        ]
+    },
+    {
+        "subtopic": "Middleware in Next.js",
+        "data": [
+            { "title": "Middleware in nextjs | Nextjs fullstack course" }
+        ]
+    },
+    {
+        "subtopic": "User Verification in Next.js",
+        "data": [
+            { "title": "User verification email in nextjs" }
+        ]
+    },
+    {
+        "subtopic": "Deployment in Next.js",
+        "data": [
+            { "title": "Nextjs Deployment" }
+        ]
+    },
+    {
+        "subtopic": "Authentication in Next.js",
+        "data": [
+            { "title": "Complete Nextjs fullstack Authentication course" }
+        ]
+    },
+    {
+        "subtopic": "Integration with Appwrite",
+        "data": [
+            { "title": "Nextjs meets Appwrite" },
+            { "title": "How to integrate Appwrite to Nextjs" },
+            { "title": "Nextjs components to talk to Appwrite" },
+            { "title": "Appwrite Nextjs and context api" }
+        ]
+    },
+    {
+        "subtopic": "Full Stack Development with Next.js, MongoDB, and Appwrite",
+        "data": [
+            { "title": "Fullstack nextjs course with mongodb and appwrite" }
+        ]
+    }
+]

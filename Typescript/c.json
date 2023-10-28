@@ -1,0 +1,83 @@
+[
+    {
+        "subtopic": "Introduction to TypeScript",
+        "data": [
+            { "title": "Why to learn TypeScript" },
+            { "title": "TypeScript is not what you think" }
+        ]
+    },
+    {
+        "subtopic": "Getting Started with TypeScript",
+        "data": [
+            { "title": "How to install TypeScript" },
+            { "title": "Your first intro to TypeScript docs" }
+        ]
+    },
+    {
+        "subtopic": "Basic Type Concepts in TypeScript",
+        "data": [
+            { "title": "Number, boolean and type inference" },
+            { "title": "Don't use ANY in TypeScript" }
+        ]
+    },
+    {
+        "subtopic": "Functions in TypeScript",
+        "data": [
+            { "title": "Do you really know functions in TypeScript" },
+            { "title": "A better way to write function in TypeScript" }
+        ]
+    },
+    {
+        "subtopic": "Working with Objects in TypeScript",
+        "data": [
+            { "title": "Bad behavior of objects in TypeScript" }
+        ]
+    },
+    {
+        "subtopic": "Type Aliases and Advanced Types",
+        "data": [
+            { "title": "Type Aliases in TypeScript" },
+            { "title": "READONLY and optional in TypeScript" },
+            { "title": "Union Types in TS" },
+            { "title": "Tuples in TypeScript" }
+        ]
+    },
+    {
+        "subtopic": "Interfaces in TypeScript",
+        "data": [
+            { "title": "Interface in TypeScript" },
+            { "title": "Interface vs Type in TypeScript" }
+        ]
+    },
+    {
+        "subtopic": "Access Modifiers and Classes",
+        "data": [
+            { "title": "Private Public in TypeScript" },
+            { "title": "Getters and Setters in TypeScript" },
+            { "title": "Protected in TypeScript" },
+            { "title": "Abstract class in TypeScript" }
+        ]
+    },
+    {
+        "subtopic": "Generics in TypeScript",
+        "data": [
+            { "title": "Generics in TypeScript" },
+            { "title": "Generics in Array and Arrow functions in TypeScript" },
+            { "title": "Generic Classes in TypeScript" }
+        ]
+    },
+    {
+        "subtopic": "Advanced TypeScript Concepts",
+        "data": [
+            { "title": "Type Narrowing in TypeScript" },
+            { "title": "Instanceof and Type Predicates" },
+            { "title": "Discriminated Union and Exhaustiveness Checking with never" }
+        ]
+    },
+    {
+        "subtopic": "Conclusion",
+        "data": [
+            { "title": "TypeScript End" }
+        ]
+    }
+]

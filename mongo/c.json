@@ -1,0 +1,95 @@
+[
+    {
+        "subtopic": "Getting Started with React Native",
+        "data": [
+            {"title": "React Native Mastery: Develop 10 Apps with Confidence"},
+            {"title": "The Ultimate React Native Installation Guide: Prerequisites and Setup"},
+            {"title": "React native windows installation"},
+            {"title": "React Native 101: Building Your First App and Troubleshooting Common Issues"},
+            {"title": "React Native File Structure: Best Practices and Tips"}
+        ]
+    },
+    {
+        "subtopic": "Project Development in React Native",
+        "data": [
+            {"title": "Rewrite React Native App"},
+            {"title": "Styling React Native Components: The Fundamentals of Stylesheet"},
+            {"title": "Dynamic Theming in React Native: A Guide to Hooks"},
+            {"title": "Summary of Project 1 and open source contribution | React Native"},
+            {"title": "React Native Project 2"},
+            {"title": "Organizing Your React Native Project with Multi-File Components"}
+        ]
+    },
+    {
+        "subtopic": "UI Design in React Native",
+        "data": [
+            {"title": "React Native Flexbox Explained: How to Create Powerful UI"},
+            {"title": "React Native Horizontal Scroll: A Complete Overview of Properties and Usage"},
+            {"title": "A Beginner's Guide to Images in React Native"},
+            {"title": "Styling Cards in React Native"},
+            {"title": "DeepLinking and Touchable Opacity in React Native"},
+            {"title": "Making beautiful buttons in react native"},
+            {"title": "Iteration UI in react native"},
+            {"title": "WhatsApp chat style design in React Native"}
+        ]
+    },
+    {
+        "subtopic": "Project-Based Tutorials in React Native",
+        "data": [
+            {"title": "Project 3 | Password Generator in react Native"},
+            {"title": "Yup schema validation in react native"},
+            {"title": "UseState in React Native"},
+            {"title": "Logic to generate password React Native"},
+            {"title": "How to reset state in React Native"},
+            {"title": "Formik React Native Crash Course"},
+            {"title": "Debugging React Native Apps"},
+            {"title": "Let's build a react native app with debugging in 1 shot | Project 4"},
+            {"title": "React Native Project 5 | Haptic feedback and Images"},
+            {"title": "How to handle Images in React Native"},
+            {"title": "Rolling the dice in React Native"},
+            {"title": "Handling errors in Haptic Feedback in React Native"},
+            {"title": "Project 6 | What next to build in React Native"},
+            {"title": "Currency type and button component"}
+        ]
+    },
+    {
+        "subtopic": "Advanced Topics in React Native",
+        "data": [
+            {"title": "Introduction to flatlist in React native"},
+            {"title": "Implementing FlatList in React Native"},
+            {"title": "Project 7 in React Native | TicTacToe app"},
+            {"title": "FontAwesome icons in react native"},
+            {"title": "How to write tic tac toe logic"},
+            {"title": "Finishing tic tac toe in react native"},
+            {"title": "Project 8 | Building a Spotify inspired app in react native"},
+            {"title": "React native track player | reading docs"},
+            {"title": "Create a music service in React Native"},
+            {"title": "Conditional rendering of UI for music in react native"},
+            {"title": "Creating control centre in react native"},
+            {"title": "Slider and album info in react native"},
+            {"title": "Combining components in screen and debugging in react native"}
+        ]
+    },
+    {
+        "subtopic": "React Native Navigation",
+        "data": [
+            {"title": "Introduction to react native navigation"},
+            {"title": "Learn react native navigation basics"},
+            {"title": "Setting up Home screen for navigation in react native"},
+            {"title": "Handling params in details screen in react native"},
+            {"title": "Project 10 in react native"},
+            {"title": "Setting up navigation for react native"},
+            {"title": "Creating components to display mobile in react native"},
+            {"title": "Finishing up navigation project"}
+        ]
+    },
+    {
+        "subtopic": "App Development with Appwrite and React Native",
+        "data": [
+            {"title": "Building a React native app with Appwrite authentication | App demo"},
+            {"title": "Complete Appwrite authentication walkthrough"},
+            {"title": "Using Appwrite service with custom context in React Native"},
+            {"title": "React Native Authentication in 1 shot | Appwrite Backend"}
+        ]
+    }
+]

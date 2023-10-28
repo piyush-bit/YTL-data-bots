@@ -1,0 +1,109 @@
+[
+    {
+        "subtopic": "Getting Started with Go Programming",
+        "data": [
+            { "title": "Welcome to series on GO programming language" },
+            { "title": "Before you start with golang" },
+            { "title": "Golang installation and hello world" },
+            { "title": "GOPATH and reading go docs" }
+        ]
+    },
+    {
+        "subtopic": "Basic Concepts in Go",
+        "data": [
+            { "title": "Lexer in golang and Types" },
+            { "title": "Variables, types and constants" },
+            { "title": "Comma ok syntax and packages in golang" },
+            { "title": "Conversions in golang" },
+            { "title": "Handling time in golang" }
+        ]
+    },
+    {
+        "subtopic": "Intermediate Go Concepts",
+        "data": [
+            { "title": "Build for windows, linux and mac" },
+            { "title": "Memory management in golang" },
+            { "title": "Pointers in golang" },
+            { "title": "Array in golang" },
+            { "title": "Slices in golang" },
+            { "title": "How to remove a value from slice based on index in golang" }
+        ]
+    },
+    {
+        "subtopic": "Data Structures and Collections",
+        "data": [
+            { "title": "Maps in golang" },
+            { "title": "Structs in golang" }
+        ]
+    },
+    {
+        "subtopic": "Control Flow in Go",
+        "data": [
+            { "title": "If else in golang" },
+            { "title": "Switch case in golang and online playground" },
+            { "title": "Loop break continue and goto in golang" }
+        ]
+    },
+    {
+        "subtopic": "Functions and Methods in Go",
+        "data": [
+            { "title": "Functions in golang" },
+            { "title": "Methods in golang" },
+            { "title": "Defer in golang" }
+        ]
+    },
+    {
+        "subtopic": "File and Web Handling in Go",
+        "data": [
+            { "title": "Working with files in golang" },
+            { "title": "Handling web request in golang" },
+            { "title": "Handling URL in golang" },
+            { "title": "Creating server for golang frontend" },
+            { "title": "How to make GET request in golang" },
+            { "title": "How to make POST request with JSON data in golang" },
+            { "title": "How to send form data in golang" },
+            { "title": "How to create JSON data in golang" },
+            { "title": "How to consume JSON data in golang" }
+        ]
+    },
+    {
+        "subtopic": "Building APIs in Go",
+        "data": [
+            { "title": "A long video on MOD in golang" },
+            { "title": "Building API in golang - Models" },
+            { "title": "Sending an API JSON response for all courses in golang" },
+            { "title": "Get one course based on request id in golang" },
+            { "title": "Add a course controller in golang" },
+            { "title": "Update a course controller in golang" },
+            { "title": "Delete a course controller in golang" },
+            { "title": "Handling routes and testing routes in golang" },
+            { "title": "MongoDB setup for API in golang" },
+            { "title": "Defining models for Netflix in golang" },
+            { "title": "Making a connection to the database in golang" },
+            { "title": "Insert data in MongoDB in golang" },
+            { "title": "Update a record in MongoDB in golang" },
+            { "title": "Delete one and delete many in MongoDB in golang" },
+            { "title": "Get all collection in MongoDB in golang" },
+            { "title": "Get all movies from DB in golang" },
+            { "title": "Mark movie as watched in golang" },
+            { "title": "Delete 1 and all movie in golang" },
+            { "title": "Creating routes and testing API in golang" }
+        ]
+    },
+    {
+        "subtopic": "Concurrency and Parallelism in Go",
+        "data": [
+            { "title": "Concurrency and goroutines in golang" },
+            { "title": "Wait groups in golang" },
+            { "title": "Mutex in golang" },
+            { "title": "Race Condition in golang" },
+            { "title": "Channels and Deadlock in golang" }
+        ]
+    },
+    {
+        "subtopic": "Advanced Topics in Go",
+        "data": [
+            { "title": "Math, crypto and random number in golang" }
+        ]
+    }
+]

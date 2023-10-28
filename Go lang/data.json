@@ -1,0 +1,400 @@
+{
+    "_id": "PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa",
+    "title": "Let's go with golang",
+    "Playlist_link": "https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa",
+    "Playlist_img": "",
+    "data": [
+        {
+            "title": "Getting Started with Go Programming",
+            "content": [
+                {
+                    "title": "Welcome to series on GO programming language",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=JoJ8Sw5Yb4c",
+                    "duration": "PT4M59S"
+                },
+                {
+                    "title": "Before you start with golang",
+                    "description": "Welcome to the series on golang. In this video, we will clear the basics of golang, and mostly we will answer some most common questions that you should know before getting started with golang.\n\nLink to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=F3klnY_r8FU",
+                    "duration": "PT7M53S"
+                },
+                {
+                    "title": "Golang installation and hello world",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=62qGe9yhiJI",
+                    "duration": "PT11M44S"
+                },
+                {
+                    "title": "GOPATH and reading go docs",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=QEZlivtFOZk",
+                    "duration": "PT7M10S"
+                }
+            ]
+        },
+        {
+            "title": "Basic Concepts in Go",
+            "content": [
+                {
+                    "title": "Lexer in golang and Types",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=elYPAeX9h1E",
+                    "duration": "PT7M28S"
+                },
+                {
+                    "title": "Variables, types and constants",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=9fYqg6uo-UU",
+                    "duration": "PT17M29S"
+                },
+                {
+                    "title": "Comma ok syntax and packages in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=zYIZtbyUIDY",
+                    "duration": "PT11M41S"
+                },
+                {
+                    "title": "Conversions in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=3j43y-PFJPI",
+                    "duration": "PT10M33S"
+                },
+                {
+                    "title": "Handling time in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=xsAz24z4Hdg",
+                    "duration": "PT11M44S"
+                }
+            ]
+        },
+        {
+            "title": "Intermediate Go Concepts",
+            "content": [
+                {
+                    "title": "Build for windows, linux and mac",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=9vxsO5vMTAw",
+                    "duration": "PT3M46S"
+                },
+                {
+                    "title": "Memory management in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=G1SP9uDJD0g",
+                    "duration": "PT5M36S"
+                },
+                {
+                    "title": "Pointers in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=-BFJ0dZyxHg",
+                    "duration": "PT10M51S"
+                },
+                {
+                    "title": "Array in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=JoUSa8jtadE",
+                    "duration": "PT6M52S"
+                },
+                {
+                    "title": "Slices in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=k7hVj8QL9Co",
+                    "duration": "PT14M58S"
+                },
+                {
+                    "title": "How to remove a value from slice based on index in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=931nR5TGCAk",
+                    "duration": "PT5M35S"
+                }
+            ]
+        },
+        {
+            "title": "Data Structures and Collections",
+            "content": [
+                {
+                    "title": "Maps in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=_0R6H1m9o78",
+                    "duration": "PT8M36S"
+                },
+                {
+                    "title": "Structs in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=NMTN543WVQY",
+                    "duration": "PT8M11S"
+                }
+            ]
+        },
+        {
+            "title": "Control Flow in Go",
+            "content": [
+                {
+                    "title": "If else in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=f_xNeRurjZY",
+                    "duration": "PT8M38S"
+                },
+                {
+                    "title": "Switch case in golang and online playground",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=Up4lTPhJBvs",
+                    "duration": "PT9M45S"
+                },
+                {
+                    "title": "Loop break continue and goto in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=ZWBA3l818y0",
+                    "duration": "PT12M20S"
+                }
+            ]
+        },
+        {
+            "title": "Functions and Methods in Go",
+            "content": [
+                {
+                    "title": "Functions in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=rcUST3QvVOQ",
+                    "duration": "PT13M36S"
+                },
+                {
+                    "title": "Methods in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=GhYIKwMxz_Y",
+                    "duration": "PT8M25S"
+                },
+                {
+                    "title": "Defer in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=jiy584-vv38",
+                    "duration": "PT10M27S"
+                }
+            ]
+        },
+        {
+            "title": "File and Web Handling in Go",
+            "content": [
+                {
+                    "title": "Working with files in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=Mdg3tlGUXrE",
+                    "duration": "PT12M40S"
+                },
+                {
+                    "title": "Handling web request in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=ru53LpdVHn4",
+                    "duration": "PT12M12S"
+                },
+                {
+                    "title": "Handling URL in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=cl7_ouTMFh0",
+                    "duration": "PT13M43S"
+                },
+                {
+                    "title": "Creating server for golang frontend",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=xh79JXJy0yY",
+                    "duration": "PT9M22S"
+                },
+                {
+                    "title": "How to make GET request in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=V-sxFQ0fWlw",
+                    "duration": "PT11M46S"
+                },
+                {
+                    "title": "How to make POST request with JSON data in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=h5NeKZuzUoc",
+                    "duration": "PT8M24S"
+                },
+                {
+                    "title": "How to send form data in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=U_LjyX4iDbU",
+                    "duration": "PT5M48S"
+                },
+                {
+                    "title": "How to create JSON data in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=SZ5xZ9OTeEI",
+                    "duration": "PT15M44S"
+                },
+                {
+                    "title": "How to consume JSON data in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=a96veXdifys",
+                    "duration": "PT13M42S"
+                }
+            ]
+        },
+        {
+            "title": "Building APIs in Go",
+            "content": [
+                {
+                    "title": "A long video on MOD in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=O8uUGEobo-Q",
+                    "duration": "PT27M16S"
+                },
+                {
+                    "title": "Building API in golang - Models",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=TrouRtr5xWE",
+                    "duration": "PT12M8S"
+                },
+                {
+                    "title": "Sending a API json response for all courses in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=V3S3hKrIdQo",
+                    "duration": "PT7M35S"
+                },
+                {
+                    "title": "Get one course based on request id in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=1J1sgKriM-o",
+                    "duration": "PT7M36S"
+                },
+                {
+                    "title": "Add a course controller in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=vMpBUkIMLzY",
+                    "duration": "PT11M18S"
+                },
+                {
+                    "title": "Update a course controller in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=TQpB_QSgmXU",
+                    "duration": "PT9M55S"
+                },
+                {
+                    "title": "Delete a course controller in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=b1nJBaCzkHI",
+                    "duration": "PT5M2S"
+                },
+                {
+                    "title": "Handling routes and testing routes in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=NedcxRgo4DY",
+                    "duration": "PT20M25S"
+                },
+                {
+                    "title": "MongoDB setup for API in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=EaZo7pcueBE",
+                    "duration": "PT10M28S"
+                },
+                {
+                    "title": "Defining models for netflix in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=laeZI6UdDNg",
+                    "duration": "PT6M40S"
+                },
+                {
+                    "title": "Making a connection to database in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=GszGvj6eBZY",
+                    "duration": "PT11M33S"
+                },
+                {
+                    "title": "Insert data in mongodb in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=K2nC_WpPVQE",
+                    "duration": "PT11M4S"
+                },
+                {
+                    "title": "Update a record in mongodb in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=00YTOQTxUEc",
+                    "duration": "PT8M7S"
+                },
+                {
+                    "title": "Delete one and delete many in mongodb in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=qeZueI6d1Wg",
+                    "duration": "PT9M1S"
+                },
+                {
+                    "title": "Get all collection in mongodb in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=1P5b4McGJQQ",
+                    "duration": "PT10M16S"
+                },
+                {
+                    "title": "Get all movies from DB in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=Ycc9sXgDCNQ",
+                    "duration": "PT5M7S"
+                },
+                {
+                    "title": "Mark movie as watched in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=XdYpKfIgIQg",
+                    "duration": "PT7M17S"
+                },
+                {
+                    "title": "Delete 1 and all movie in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=Qh1H-6Ebz7E",
+                    "duration": "PT4M21S"
+                },
+                {
+                    "title": "Creating routes and testing API in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=uG2fpX2ktNE",
+                    "duration": "PT15M12S"
+                }
+            ]
+        },
+        {
+            "title": "Concurrency and Parallelism in Go",
+            "content": [
+                {
+                    "title": "Concurrency and goroutines in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=V-0ifUKCkBI",
+                    "duration": "PT13M18S"
+                },
+                {
+                    "title": "Wait groups in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=FiTbXvc08wE",
+                    "duration": "PT11M54S"
+                },
+                {
+                    "title": "Mutex in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=v7DKtAluvYA",
+                    "duration": "PT5M41S"
+                },
+                {
+                    "title": "Race Condition in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=4TCNUa-5wmI",
+                    "duration": "PT18M46S"
+                },
+                {
+                    "title": "Channels and Deadlock in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=i5HEE5Ikv3w",
+                    "duration": "PT18M39S"
+                }
+            ]
+        },
+        {
+            "title": "Advanced Topics in Go",
+            "content": [
+                {
+                    "title": "Math, crypto and random number in golang",
+                    "description": "Link to my programming Video Library:\nhttps://courses.LearnCodeOnline.in/learn\n\nPick best UI color for your projects:\nhttps://UIColorPicker.com\n\nDesktop: https://amzn.to/2GZ0C46\nLaptop that I use: https://amzn.to/2Goui9Q\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nDownload LearnCodeOnline.in  app from Google play store and Apple App store\nhttps://play.google.com/store/apps/details?id=in.learncodeonline.lco\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purpose and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=yPeYZ0QuspU",
+                    "duration": "PT13M18S"
+                }
+            ]
+        }
+    ]
+}

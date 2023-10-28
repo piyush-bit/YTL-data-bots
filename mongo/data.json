@@ -1,0 +1,391 @@
+{
+    "_id": "PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c",
+    "title": "React Native Mastery with 10 apps",
+    "Playlist_link": "https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c",
+    "Playlist_img": "",
+    "data": [
+        {
+            "title": "Getting Started with React Native",
+            "content": [
+                {
+                    "title": "React Native Mastery: Develop 10 Apps with Confidence",
+                    "description": "Welcome to the React Native course where you will learn how to build 10 mobile apps from scratch using the React Native framework. This course is perfect for both beginners and experienced developers who want to learn how to develop mobile apps using React Native.\n\nIn this course, you will start by learning the fundamentals of React Native, including how to set up your development environment, create components, use styling, and handle user input. You will then move on to more advanced topics such as navigating between screens, making network requests, and integrating with third-party libraries.\n\nThroughout the course, you will build 10 different apps, each focusing on a different aspect of React Native development. You will build apps such as a weather app, a messaging app, a social media app, and more.\n\nBy the end of this course, you will have a solid understanding of React Native development and be able to create your own mobile apps. So, join the course now and start your journey to becoming a React Native developer!\n\nDocument your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nDiscord community link:\nhttps://hc.lco.dev/discord\n\nSignup and say thanks tweet to Hashnode\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=kGtEax1WQFg",
+                    "duration": "PT4M58S"
+                },
+                {
+                    "title": "The Ultimate React Native Installation Guide: Prerequisites and Setup",
+                    "description": "In this video, we will guide you through the ultimate React Native installation process. We'll cover everything you need to know, from the prerequisites you need to have installed to setting up your development environment for React Native. Whether you're a beginner or an experienced developer, this guide will help you get started with React Native and prepare you for building amazing mobile applications. So, join us as we walk you through step-by-step, and get ready to start your React Native journey today!\n\nDocument your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=XV5LwKuk3zc",
+                    "duration": "PT11M21S"
+                },
+                {
+                    "title": "React native windows installation",
+                    "description": "https://hitesh.ai/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=8l691BQ-RGc",
+                    "duration": "PT20M14S"
+                },
+                {
+                    "title": "React Native 101: Building Your First App and Troubleshooting Common Issues",
+                    "description": "In this video, we'll walk you through the basics of building your first app with React Native. We'll cover the essential concepts, including creating components, applying styles, and handling user input. Additionally, we'll discuss common issues you may encounter during development and provide troubleshooting tips to overcome them. Whether you're new to React Native or looking to expand your knowledge, this video will help you get started and build your first app. So, join us and take your first step towards becoming a React Native developer today!\n\nDocument your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nPW: https://pwskills.com \n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=TXWYrnl6dZI",
+                    "duration": "PT12M20S"
+                },
+                {
+                    "title": "React Native File Structure: Best Practices and Tips",
+                    "description": "In this video, we'll dive into React Native file structure and explore best practices and tips for organizing your project. We'll discuss the importance of structuring your project for efficiency, scalability, and maintainability. You'll learn about the recommended file organization patterns and directory structures, including separating components, screens, assets, and helpers. By the end of this video, you'll have a solid understanding of how to structure your React Native project to optimize your workflow, improve code maintainability, and make collaboration with other developers easier. So, join us as we explore React Native file structure and discover how to create a solid foundation for your mobile app development projects.\n\nDocument your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global\u00a0community\n\nDiscord: https://hc.lco.dev/discord\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nPW: https://pwskills.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=PjmAVh4Syvk",
+                    "duration": "PT14M3S"
+                }
+            ]
+        },
+        {
+            "title": "Project Development in React Native",
+            "content": [
+                {
+                    "title": "Rewrite React Native App",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global\u00a0community\n\nDiscord: https://hc.lco.dev/discord\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=CZrJpEn6b4I",
+                    "duration": "PT12M14S"
+                },
+                {
+                    "title": "Styling React Native Components: The Fundamentals of Stylesheet",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global\u00a0community\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nPW: https://pwskills.com \n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=9yhlhKX7ZYM",
+                    "duration": "PT17M51S"
+                },
+                {
+                    "title": "Dynamic Theming in React Native: A Guide to Hooks",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global\u00a0community\n\nDiscord: https://hc.lco.dev/discord\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nPW: https://pwskills.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=6BlFPa_MGNg",
+                    "duration": "PT5M29S"
+                },
+                {
+                    "title": "Summary of Project 1 and open source contribution | React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=XfREwe2sUGs",
+                    "duration": "PT5M29S"
+                },
+                {
+                    "title": "React Native Project 2",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nPW: https://pwskills.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=pbvC119ZRDw",
+                    "duration": "PT4M21S"
+                },
+                {
+                    "title": "Organizing Your React Native Project with Multi-File Components",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nPW: https://pwskills.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=hg_cpUnBkBc",
+                    "duration": "PT7M22S"
+                }
+            ]
+        },
+        {
+            "title": "UI Design in React Native",
+            "content": [
+                {
+                    "title": "React Native Flexbox Explained: How to Create Powerful UI",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nPW: https://pwskills.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=MJ7P1JUyuFA",
+                    "duration": "PT17M15S"
+                },
+                {
+                    "title": "React Native Horizontal Scroll: A Complete Overview of Properties and Usage",
+                    "description": "This YouTube video provides a comprehensive overview of the properties and usage of horizontal scrolling views in React Native. You will learn how to create dynamic and customizable horizontal scroll views using various techniques and best practices. Whether you're a beginner or an experienced React Native developer, this video is a must-watch for anyone looking to enhance their UI design skills.\n\nDocument your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\nPW: https://pwskills.com\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=cdP210MwnLw",
+                    "duration": "PT14M44S"
+                },
+                {
+                    "title": "A Beginner's Guide to Images in React Native",
+                    "description": "This YouTube video is a beginner's guide to working with images in React Native. You will learn the basics of creating dynamic and responsive images, as well as best practices for optimizing image performance in your React Native apps. Whether you're new to React Native or looking to improve your image management skills, this video is a great starting point for building stunning image-based UIs.\n\nDocument your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=txSxteRjpYw",
+                    "duration": "PT12M48S"
+                },
+                {
+                    "title": "Styling Cards in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=RpBOw56rp1I",
+                    "duration": "PT12M20S"
+                },
+                {
+                    "title": "DeepLinking and Touchable Opacity in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=eL5qYJ7y68k",
+                    "duration": "PT16M22S"
+                },
+                {
+                    "title": "Making beautiful buttons in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=QpTPQmBsOyI",
+                    "duration": "PT13M10S"
+                },
+                {
+                    "title": "Iteration UI in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=UJLphDsGzCQ",
+                    "duration": "PT13M53S"
+                },
+                {
+                    "title": "WhatsApp chat style design in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=VxLl6XmS__E",
+                    "duration": "PT8M42S"
+                }
+            ]
+        },
+        {
+            "title": "Project-Based Tutorials in React Native",
+            "content": [
+                {
+                    "title": "Project 3 | Password Generator in react Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=inriP3Vj2wo",
+                    "duration": "PT5M9S"
+                },
+                {
+                    "title": "Yup schema validation in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=86EO42D6s7E",
+                    "duration": "PT9M1S"
+                },
+                {
+                    "title": "UseState in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=ORSHG3dfUrk",
+                    "duration": "PT8M23S"
+                },
+                {
+                    "title": "Logic to generate password React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=dGkA5u7f1YM",
+                    "duration": "PT5M28S"
+                },
+                {
+                    "title": "How to reset state in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=Ffia32q_umY",
+                    "duration": "PT7M40S"
+                },
+                {
+                    "title": "Formik React Native Crash Course",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=molTIg-zvGI",
+                    "duration": "PT36M56S"
+                },
+                {
+                    "title": "Debugging React Native Apps",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=BayDYRigP5I",
+                    "duration": "PT4M17S"
+                },
+                {
+                    "title": "Let's build a react native app with debugging in 1 shot | Project 4",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=mJomfTfOJUQ",
+                    "duration": "PT28M43S"
+                },
+                {
+                    "title": "React Native Project 5 | Haptic feedback and Images",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\n\nDiscord: https://hc.lco.dev/discord\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=9ZkiY373CHk",
+                    "duration": "PT5M7S"
+                },
+                {
+                    "title": "How to handle Images in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=zI69kpGoFRI",
+                    "duration": "PT18M9S"
+                },
+                {
+                    "title": "Rolling the dice in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=NM2-naJ2zDU",
+                    "duration": "PT9M52S"
+                },
+                {
+                    "title": "Handling errors in Haptic Feedback in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=bIJASPiSKS4",
+                    "duration": "PT10M50S"
+                },
+                {
+                    "title": "Project 6 | What next to build in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=5Qlep9sKuX4",
+                    "duration": "PT2M49S"
+                },
+                {
+                    "title": "Currency type and button component",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=c9UNoNqwKTQ",
+                    "duration": "PT13M7S"
+                }
+            ]
+        },
+        {
+            "title": "Advanced Topics in React Native",
+            "content": [
+                {
+                    "title": "Introduction to flatlist in React native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=rm4x_SwgA28",
+                    "duration": "PT15M27S"
+                },
+                {
+                    "title": "Implementing FlatList in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=a0PRdbFBgY8",
+                    "duration": "PT16M48S"
+                },
+                {
+                    "title": "Project 7 in React Native | TicTacToe app",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=ZpXB6DkScac",
+                    "duration": "PT2M40S"
+                },
+                {
+                    "title": "FontAwesome icons in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=ShIND2eR1Z0",
+                    "duration": "PT13M43S"
+                },
+                {
+                    "title": "How to write tic tac toe logic",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=41HzsprDVBE",
+                    "duration": "PT17M44S"
+                },
+                {
+                    "title": "Finishing tic tac toe in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=8UwoThBYvM4",
+                    "duration": "PT13M27S"
+                },
+                {
+                    "title": "Project 8 | Building a Spotify inspired app in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=yqMKsKzUanU",
+                    "duration": "PT4M2S"
+                },
+                {
+                    "title": "React native track player | reading docs",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=eCkPGsqn4xw",
+                    "duration": "PT8M45S"
+                },
+                {
+                    "title": "Create a music service in React Native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=TaY3-eBuf7U",
+                    "duration": "PT21M35S"
+                },
+                {
+                    "title": "Conditional rendering of UI for music in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=pt4ekPqX9Bo",
+                    "duration": "PT8M53S"
+                },
+                {
+                    "title": "Creating control centre in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=Jy0hMhllf90",
+                    "duration": "PT14M2S"
+                },
+                {
+                    "title": "Slider and album info in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=lpCwIPFGMkQ",
+                    "duration": "PT11M39S"
+                },
+                {
+                    "title": "Combining components in screen and debugging in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=2at5ac3Po9g",
+                    "duration": "PT18M29S"
+                }
+            ]
+        },
+        {
+            "title": "React Native Navigation",
+            "content": [
+                {
+                    "title": "Introduction to react native navigation",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=c_7ukxJz1wE",
+                    "duration": "PT10M45S"
+                },
+                {
+                    "title": "Learn react native navigation basics",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=KMJE_0ybg9E",
+                    "duration": "PT18M33S"
+                },
+                {
+                    "title": "Setting up Home screen for navigation in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=dAsxCAQogwA",
+                    "duration": "PT10M51S"
+                },
+                {
+                    "title": "Handling params in details screen in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=hgca3tkyVlY",
+                    "duration": "PT11M55S"
+                },
+                {
+                    "title": "Project 10 in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=Q5lqT7bHoV0",
+                    "duration": "PT1M50S"
+                },
+                {
+                    "title": "Setting up navigation for react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=6qSHnTXeUxI",
+                    "duration": "PT11M6S"
+                },
+                {
+                    "title": "Creating components to display mobile in react native",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=9BfMfDJpbjI",
+                    "duration": "PT10M31S"
+                },
+                {
+                    "title": "Finishing up navigation project",
+                    "description": "Document your progress and share your React Native journey on your own Hashnode blog for free: \nhttps://hashnode.com/?source=hitesh\nTag your posts with #reactnative so they can be easily discovered by Hashnode's global community\nhttps://github.com/hiteshchoudhary/React-native-projects\nDiscord: https://hc.lco.dev/discord\n\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=VfftvZ0J-Ro",
+                    "duration": "PT16M35S"
+                }
+            ]
+        },
+        {
+            "title": "App Development with Appwrite and React Native",
+            "content": [
+                {
+                    "title": "Building a React native app with Appwrite authentication | App demo",
+                    "description": "https://hitesh.ai/appwrite\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=VeSUgWHbphk",
+                    "duration": "PT3M51S"
+                },
+                {
+                    "title": "Complete Appwrite authentication walkthrough",
+                    "description": "https://hitesh.ai/appwrite\n\nhttps://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=zlojM-Jbux4",
+                    "duration": "PT43M33S"
+                },
+                {
+                    "title": "Using Appwrite service with custom context in React Native",
+                    "description": "Learn to create custom context of Appwrite in React native so that your whole app knows if the user is logged in or not.\n\n\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=rWv0zzEYB2w",
+                    "duration": "PT1H6M31S"
+                },
+                {
+                    "title": "React Native Authentication in 1 shot | Appwrite Backend",
+                    "description": "https://github.com/hiteshchoudhary/React-native-projects\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+                    "embed_link": "https://www.youtube.com/watch?v=fw8J9-KhGdU",
+                    "duration": "PT1H57M12S"
+                }
+            ]
+        }
+    ]
+}
